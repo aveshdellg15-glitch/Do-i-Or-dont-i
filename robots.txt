@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buyorbye-henna.vercel.app/sitemap.xml
